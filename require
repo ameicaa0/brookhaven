@@ -1,1 +1,1 @@
-print(game:GetService("StarterGui").Player8Handler.Game8Settings.Name)
+game:GetService("StarterGui").Player8Handler.Game8Settings.Name
