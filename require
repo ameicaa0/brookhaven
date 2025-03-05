@@ -1,1 +1,3 @@
-game:GetService("StarterGui").Player8Handler.Game8Settings
+getgenv().module = function()
+return game:GetService("StarterGui").Player8Handler.Game8Settings
+end
