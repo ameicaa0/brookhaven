@@ -1,1 +1,1 @@
-game:GetService("StarterGui").Player8Handler.Game8Settings
+local modulescript = game:GetService("StarterGui").Player8Handler.Game8Settings
