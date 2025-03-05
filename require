@@ -1,1 +1,1 @@
-local modulescript = require(game:GetService("StarterGui").Player8Handler.Game8Settings)
+modulescript = require(game:GetService("StarterGui").Player8Handler.Game8Settings)
