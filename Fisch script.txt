@@ -1,7 +1,8 @@
 local message = [[
                                                                                           PATCHED within 6 hours
-Follow me on v3rm.net so you don’t miss any scripts like this when I release them!
+Follow me on v3rm.net and scriptblox.com so you don’t miss any scripts like this when I release them!
 https://v3rm.net/members/ameicaa.53920/
+https://scriptblox.com/u/ameicaa
 ]]
 
 game.Players.LocalPlayer:Kick(message)
