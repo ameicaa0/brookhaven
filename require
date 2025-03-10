@@ -1,1 +1,0 @@
-modulescript = require(game:GetService("StarterGui").Player8Handler.Game8Settings)
