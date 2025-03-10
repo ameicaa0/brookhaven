@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ameicaa0/brookhaven/main/test2.lua"))()
+--
